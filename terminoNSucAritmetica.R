@@ -10,5 +10,3 @@ terminoNSucAritmetica =function(valor_inicial,termino,incremento)
   return (x_n)
 
 }
-
-terminoNSucAritmetica(1,6,8)
